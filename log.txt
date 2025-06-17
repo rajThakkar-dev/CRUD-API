@@ -1,0 +1,10 @@
+
+1749509978604: ::1: GET: /users
+1749509985315: ::1: GET: /api/users
+1749509999759: ::1: GET: /api/users/6846de8644d600eb3fe7e137
+1749510037839: ::1: POST: /api/users
+1749510045024: ::1: GET: /api/users/
+1749510079117: ::1: PATCH: /api/users/6846e0172dd96dc7f2f3b7fb
+1749510083210: ::1: GET: /api/users/
+1749510102515: ::1: DELETE: /api/users/6847679565ebd4583a97e3cc
+1749510106735: ::1: GET: /api/users/
